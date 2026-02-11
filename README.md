@@ -1,4 +1,4 @@
-E-Learning Landing Page 📚
+E-Learning Landing Page 
 
 This is a modern and responsive E-Learning Landing Page built using HTML, CSS, and JavaScript. The page is designed to present an online learning platform with a clean layout, smooth animations, and an engaging user interface.
 
